@@ -32,7 +32,7 @@ The application will collect grading information through a menu-based interface,
 
 The system diagram and Eisenhower Matrix are located in the docs/ directory.
 
-## Future Plans (Version 1.x)
+## Future Plans (Version 2.0+)
 
 - Save and load grading information using local files.
 - Support multiple courses.
